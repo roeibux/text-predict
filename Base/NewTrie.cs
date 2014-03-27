@@ -139,6 +139,7 @@ namespace TextPredict.Base {
         public void clear() {
             root = new Node();
             traveler = new TrieTraveler(this);
+            this.count = 0;
         }
 
         public void removeAll( Trie t ) {
