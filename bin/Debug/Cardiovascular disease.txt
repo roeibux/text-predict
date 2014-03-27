@@ -1,0 +1,127 @@
+Cardiovascular diseases cause more than 15 million deaths in the world each year ,  according to the World Health Organization ( WHO; Geneva ) . 
+They account for 50% of all deaths in several developed countries ,  and more than 50% in Africa and Western and Southeast Asia . They are also 
+the major cause of death in adults . In addition ,  many cardiovascular incidents are not necessarily fatal ,  but may impair the ability to lead 
+a normal daily life ,  resulting in enormous healthcare costs ( estimated at $50–150 billion per year ) to society .
+
+However ,  despite the huge death and disability tolls ,  there have been significant declines in total cardiovascular disease mortality over the 
+past few decades ,  due to improved acute and chronic medications and surgical procedures ,  and lifestyle and diet changes . Because of the 
+incidence and mortality rates ,  cardiovascular diseases are the subject of enormous investment by the biotechnology and pharmaceutical industries .
+
+Historical perspective
+In considering the evolution of drug discovery and development in the cardiovascular area ,  it is important to realize that the term 
+ " cardiovascular disease "  refers to a number of conditions ,  which WHO classifies into 11 groupings for the purposes of assembling mortality data . 
+These groupings include hypertension with or without renal disease ,  stroke ,  atherosclerosis ,  other diseases of arteries ,  arterioles ,  and 
+capillaries ,  and diseases of veins and lymphatics . In addition ,  there are six heart disease groups: rheumatic fever/rheumatic heart disease ,  
+hypertensive heart disease ,  heart and renal disease ,  ischemic heart disease ,  diseases of pulmonary circulation ,  and other forms of heart 
+disease1 .
+
+Medicines did not appear for these conditions at the same time ,  although herb medicines have been used since antiquity . Perhaps the best known 
+of these in use today is digitalis ,  also known as digoxin and digitoxin . It is derived from the foxglove plant and has been described in medical 
+literature for over 200 years . It is used to treat congestive heart failure ,  some kinds of congenital heart defects ,  and is also used to treat 
+certain arrhythmias ,  as it functions to strengthen the contraction of the heart muscle ,  slowing the heart rate and promoting the elimination 
+of fluid from body tissues . However ,  it is not particularly effective in treating coronary artery disease ( CAD ) ,  which is the leading cause 
+of death in the US . Until 30 years ago ,  there were no drugs available to treat CAD . However ,  the concerted efforts of clinicians and the 
+biopharmaceutical industry have since then produced thrombolytic agents ,  beta  -  blockers ,  parental nitroglycerine ,  heparin ,  aspirin ,  2b  -  3a 
+inhibitors ,  calcium blockers ,  and a variety of anti  -  platelet agents ,  all of which gives doctors a potent arsenal with which to treat 
+cardiovascular diseases .
+
+Nevertheless ,  medication alone cannot overcome the problems posed by cardiovascular diseases as a whole ,  and preventative lifestyle changes 
+have emerged as leading contributors to the decline of mortality and disability rates now being seen . For example ,  the recently completed 
+international Coronary Primary Prevention Trial ( CPPT ) was a landmark 10  -  year study that showed conclusively for the first time that reducing 
+low density lipoprotein ( LDL ) cholesterol and total blood cholesterol can reduce the incidence of coronary heart disease and heart attacks in 
+men at high risk because of significant amounts of plasma cholesterol . This and several other studies confirmed the link between lifestyle ,  
+diet ,  and the chances of having or succumbing to cardiovascular disease ,  and have helped direct some of the development of new drugs toward 
+cholesterol  -  lowering modes of action and related mechanisms .
+
+Current state
+Even though the risk factors that increase the chances of cardiovascular disease are well known ( cholesterol and other lipids ,  cigarette and 
+tobacco smoke ,  diabetes mellitus ,  high blood pressure ,  obesity ,  physical inactivity )2 and there is a wide variety of medications to treat or 
+ameliorate conditions that arise ,  the number of surgical procedures performed in the US alone in response to cardiovascular disease is simply 
+staggering .
+
+As previously mentioned ,  cholesterol  -  lowering drugs are at the forefront of development ,  although the American Heart Association recommends 
+that  " Drug therapy can be considered for patients who ,  in spite of maximal dietary therapy ,  regular physical activity and weight loss ,  need 
+further treatment for elevated blood cholesterol levels . " 2
+
+Here ,  the drugs of choice for elevated LDL cholesterol are the bile acid sequestrants—cholestyramine and colestipol—and the vitamin nicotinic 
+acid ( niacin ) ,  which have been shown to reduce the risk for coronary heart disease . There are associated side effects; however ,  they are not 
+considered serious . Another class of drugs is the 3  -  hydroxy  -  3  -  methylglutaryl coenzyme A ( HMG  -  CoA ) reductase inhibitors ,  such as lovastatin ,  
+pravastatin ,  and simvastatin . So  -  called statin drugs are very effective for lowering LDL cholesterol levels and have few immediate short  -  term 
+side effects . They function by interfering with key events in the synthesis of cholesterol . Other drugs include gemfibrozil ,  clofibrate ,  and 
+probucol ,  which are effective to varying degrees for lowering elevated triglyceride levels ,  and combination therapy for patients who do not 
+respond adequately to single drug therapy is increasingly being adopted .
+
+Finally ,  at present ,  a constant stream of new data support some basic truths about risk factors and the importance of effective prevention . 
+One recent report from Australia shows how increased blood pressure is directly responsible for more than 50% of stroke deaths and for about 
+25% of deaths from coronary heart disease in Eastern Asia3 . The same study suggests how even modest reductions in blood pressure could have a 
+very significant impact on the number of deaths .
+
+Industry challenges
+Even though there is now significant experience with the various drugs used to treat cardiovascular diseases ,  clinicians and the industry 
+are still challenged by some of the findings . For example ,  while thrombolytic drugs ( e .g . ,  streptokinase and accelerated tissue plasminogen 
+activator [tPA] ) have been successful since being introduced as the standard management for myocardial infarction 13 years ago ,  only about 
+50% of patients achieve unrestricted flow within 90 minutes of administration . This has led to a search for better drugs ,  including 
+genetically modified tPA and an older agent ,  staphylokinase4 . These efforts highlight the need to balance the discovery of new drugs and the 
+incremental improvement of already  -  existing ones . Industry and clinicians alike are constantly examining the already  -  existing collection of 
+available drugs for modified applications or combinations .
+
+Since it is essentially pharmaceutical companies that have developed or market all the major cardiovascular disease drugs ,  another challenge 
+for the industry is whether there are any opportunities for young biotech companies to be involved in the field . Of course ,  this question is 
+relevant to all disease areas . The answer lies in the fact that competition between pharma and biotech companies is not a bad thing—and more 
+importantly ,  many of the advances that will lead to next  -  generation medicines are increasingly being discovered and developed through their 
+early stages by biotechs . During the later stages of clinical trials ,  when increased expenses necessitate partnerships ,  biotechs are then 
+likely to partner with pharmaceutical companies . Thus ,  the fact that pharma dominates the commercial exploitation of medicines in this area 
+should not detract biotech companies from entry . There will always be a need for better drugs that are effective in a broader population 
+range than currently available ,  and biotech companies are ideally suited to discover and develop these .
+
+Future directions
+Cardiovascular medicine has had to move with the times ,  and in addition to improved surgical procedures and drugs ,  it is beginning to make 
+use of the flood of genomic information emerging from tissue  -  specific sequencing projects . This has ushered in the field of molecular 
+cardiovascular medicine ,  which is based on databases of genomic information from cardiovascular tissue . For example ,  a recent report 
+analyzed more than 76 , 000 expressed sequence tags ( ESTs ) from 13 different cDNA libraries of the cardiovascular system5 . Northern analysis 
+of the data identified widely expressed genes ,  and also ones that were tissue  -   or development  -  stage specific .
+
+The future will no doubt see these efforts applied to healthy and diseased cardiovascular tissue from cross  -  sections of populations ,  and is 
+likely to result in improved understanding of molecular contributors to these diseases . This ,  in turn ,  will be of enormous assistance in the 
+design of new drugs .
+
+In addition ,  the correlation between gene polymorphisms and specific cardiovascular diseases is also likely to become increasingly important . 
+A recent report showed how the Cys242Thr polymorphism of the p22phox gene was related to angiographic coronary artery disease and endothelial 
+function . The gene is thought to play a critical role in the generation of superoxide anions in the vessel wall ,  which may help control 
+vascular oxidant stress ,  which in turn impairs endothelial function which arises during CAD . Although the Cys242Thr polymorphism was reported 
+to confer a protective effect on CAD risk in a Japanese study population ,  in a study of US patients ,  it did not appear to confer protection 
+from endothelial dysfunction or CAD6 . This shows the importance of understanding gene variability and the multifactorial nature of these 
+diseases ,  and helps prevent making generalizations across populations . In addition ,  it helps focus on specific molecular targets on the basis 
+of these variations ,  which is the essence of the burgeoning field of pharmacogenomics ( see Pharmacogenomics ,  pp . 40 – 42  ) .
+
+Another future development is the increased identification and use of molecular markers of cardiovascular disease for early diagnosis and 
+prevention . For example ,  cardiac troponins are selectively released by damaged myocardiocytes . The specificity of this event is high enough 
+that it has resulted in improvements in the diagnosis of acute cardiac ischemic disorders ,  and has also enabled clinicians to predict more 
+reliably the risk and outcome scenarios for patients7 .
+
+The future will also see the identification of more new potential molecular targets for cardiovascular disease . For example ,  a recent report 
+describes the correlation between scavenger receptor BI ,  which is a cell surface receptor for selective high  -  density lipoprotein ( HDL ) cholesterol uptake in the liver and in other tissues ,  and the regulation of HDL metabolism ,  and protection against atherosclerosis ini animal models8 Should these results also apply to humans ,  this will become another new target for drug development in the future with major potential benefits .
+
+In addition ,  our understanding of the correlations between cardiovascular disease and patients in other high  -  risk groups ,  such as those 
+receiving renal transplants ,  will continue to be refined . These patients often have major cardiovascular disease complications and left ventricle hypertrophy ,  which correlates with adverse prognosis . A recent report shows how certain types of immunosupression regimens received by these patients may correlate with increasing risk of cardiovascular disease9 . These are significant clinical correlations whose underlaying reasons are still some time away but which will continue to be addressed and refined .
+
+Finally ,  the future will see appropriate emphasis being placed on a third component of cardiovascular disease propensity ,  in addition to the 
+traditional two ,  which are genetics and the environment . The third component is the prenatal environment and so  -  called prenatal  " programming "  ,  
+with increasing research being devoted to it . For example ,  there are suggestions that the development of the renin  -  angiotensin system and its importance in renal development may be linked to hypertension and thus ultimately cardiovascular disease10 . Although still in its infancy ,  this line of thought and work is likely to yield significant insights into the full range of factors that affect the development and progression of heart disease .
+
+Conclusions
+Cardiovascular disease's effects on world health and the economics of healthcare are devastating . Nevertheless ,  a vast array of drugs ,  
+improved surgical procedures ,  early diagnosis and prevention ,  and lifestyle and diet changes are helping to control it to a considerable 
+extent . In the near future ,  pharmacogenomic capabilities will help us understand diseases in terms of specific genetic contributors ,  and spur 
+the development of effective new drugs that will help bring this plague under control .
+
+In 1996 alone ,  1 .2 million diagnostic cardiac catheterizations ,  600 , 000 coronary artery bypass graft procedures ,  150 , 000 cardiac pacemaker 
+procedures ,  450 , 000 percutaneous transluminal coronary angioplasty procedures ,  130 , 000 endarterectomy procedures ,  and 80 , 000 heart valve 
+procedures were performed2 . The numbers change in varying degrees over time for each of these procedures ,  and most are still increasing ,  
+although at lower rates than in the past .
+
+These types of surgeries can be very expensive ,  and the associated costs due to hospitalizations are also enormous ,  spurring the development 
+of preventative medications and post  -  procedure drugs to help with the recovery process . Table 1 is a summary of drugs in development for heart 
+disease as a whole . There are multiple approaches under development ,  ranging from angioplasty gene therapies to monoclonal antibodies to 
+coagulation modulators . In addition ,  there are efforts by several companies to develop better imaging agents for the detection and monitoring 
+of cardiovascular disease progression .

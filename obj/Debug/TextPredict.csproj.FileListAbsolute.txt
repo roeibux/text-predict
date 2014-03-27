@@ -1,0 +1,19 @@
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\bin\Debug\TextPredict.exe.config
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.csprojResolveAssemblyReference.cache
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextEditor.GUI.ConfigurationWindow.resources
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextEditor.GUI.LoadWordFile.resources
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextEditor.GUI.MainWindow.resources
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.Properties.Resources.resources
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.csproj.GenerateResource.Cache
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\bin\Debug\appData.sdf
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\bin\Debug\TextPredict.exe
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\bin\Debug\TextPredict.pdb
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.exe
+c:\users\ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.pdb
+C:\Users\Ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Stats.resources
+C:\Users\Ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Form1.resources
+C:\Users\Ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Form2.resources
+C:\Users\Ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Form3.resources
+D:\TextPredict\TextPredict\bin\Debug\TextPredict.exe.config
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.exe
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.pdb
