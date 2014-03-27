@@ -154,7 +154,6 @@ namespace TextEditor.SystemProj
             MainControl.demoIntervals = Settings.Default.demoIntervals;
 
             Word word;
-            bool dbHasRows = false;
             Trie tempTrie = null;
             string curTopic = "general";
             conn.Open();

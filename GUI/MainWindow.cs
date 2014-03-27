@@ -185,7 +185,7 @@ namespace TextEditor.GUI
 
             }
            switch ( e.KeyCode ) {
-                    case ://demo
+                    case Keys.Insert:    //demo
                         e.Handled = true;
                         if ( !demonstrator.isPaused ) demonstrator.pause();
                         else demonstrator.proceed();
