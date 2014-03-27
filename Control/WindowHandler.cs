@@ -75,7 +75,7 @@ namespace TextPredict.Control {
                 if ( onWindowInvalid != null )
                     onWindowInvalid();
                 rewind();
-                int i , j;
+                int i;
                 for ( i = 0 ; i < text.Length ; i++ )
                     apply(text[i]);
                 Form1.clear();

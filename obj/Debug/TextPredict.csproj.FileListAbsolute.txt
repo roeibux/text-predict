@@ -17,3 +17,13 @@ C:\Users\Ofek\documents\visual studio 2012\Projects\TextPredict\TextPredict\obj\
 D:\TextPredict\TextPredict\bin\Debug\TextPredict.exe.config
 D:\TextPredict\TextPredict\obj\Debug\TextPredict.exe
 D:\TextPredict\TextPredict\obj\Debug\TextPredict.pdb
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.csprojResolveAssemblyReference.cache
+D:\TextPredict\TextPredict\obj\Debug\TextEditor.GUI.ConfigurationWindow.resources
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Form1.resources
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Form2.resources
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Form3.resources
+D:\TextPredict\TextPredict\obj\Debug\TextEditor.GUI.LoadWordFile.resources
+D:\TextPredict\TextPredict\obj\Debug\TextEditor.GUI.MainWindow.resources
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.GUI.Stats.resources
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.Properties.Resources.resources
+D:\TextPredict\TextPredict\obj\Debug\TextPredict.csproj.GenerateResource.Cache
