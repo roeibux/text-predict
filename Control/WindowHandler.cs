@@ -36,16 +36,15 @@ namespace TextPredict.Control {
                 String s = wordBuilder.ToString().ToLower();
                 wordBuilder.Clear();
                 if ( s.Length == 0 || stopWords.contains(s) ) return;
-                if ( windowQueue.Count >= Configurations.WINDOW_SIZE )
+                if (windowQueue.Count >= Configurations.WINDOW_SIZE) {
                     word = windowQueue.Dequeue();
-
-                lock ( window ) {
-                    if ( word != null && window.contains(word) )
-                        window.subtract(word);
-                    window.add(s);
+                    if (word != null) {
+                         lock (window) window.subtract(word);
+                    }
                 }
-                if ( !windowQueue.Contains(s) )
-                    windowQueue.Enqueue(s);
+                windowQueue.Enqueue(s);
+                lock (window) window.add(s);
+                if (window.weight != windowQueue.Count) throw new Exception("window trie count doesn't match windowqueue count");
             } else if ( Utils.isBack(c) ) {
                 if ( wordBuilder.Length > 0 )
                     wordBuilder.Length--;
